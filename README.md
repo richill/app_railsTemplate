@@ -1,3 +1,3 @@
 # app_railsTemplate
-web application rails template
+app_railsTemplate
 =======
